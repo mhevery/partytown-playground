@@ -1,0 +1,10 @@
+{
+  "name": "partytown-playground",
+  "version": "0.0.1",
+  "description": "Stackblitz - Partytown - Playground",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@builder.io/partytown": "^0.7.0"
+  }
+}
